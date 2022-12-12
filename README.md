@@ -43,8 +43,8 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 ### Considerations
 
-Using Netlify CMS <https://www.netlifycms.org/> + <https://www.netlifycms.org/docs/docusaurus/>
-Using Sanity as a CMDB <https://github.com/sanity-io/sanity>
-Using Strapi instead? <https://strapi.io/>
-Using React Brix <https://reactbricks.com/>
-Using Kontent <https://sad-clarke-a5925e.netlify.app/how-to-use-docusaurus-with-kontent/>
+- Using Netlify CMS <https://www.netlifycms.org/> + <https://www.netlifycms.org/docs/docusaurus/>
+- Using Sanity as a CMDB <https://github.com/sanity-io/sanity>
+- Using Strapi instead? <https://strapi.io/>
+- Using React Brix <https://reactbricks.com/>
+- Using Kontent <https://sad-clarke-a5925e.netlify.app/how-to-use-docusaurus-with-kontent/>
