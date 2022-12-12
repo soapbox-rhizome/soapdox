@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksoapdox=self.webpackChunksoapdox||[]).push([[9761],{7691:(e,t,a)=>{a.r(t),a.d(t,{default:()=>c});var s=a(7294),n=a(8693);function c(){return s.createElement(n.Z,{title:"Contacts",description:"Contacts Page"},s.createElement("div",null,"This is the contacts page"))}}}]);
