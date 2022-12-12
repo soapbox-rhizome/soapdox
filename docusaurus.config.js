@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Soapdox",
   tagline: "Dinosaurs are cool",
-  // url: "https://soapbox-rhizome.github.io",
+  url: "https://soapbox-rhizome.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
