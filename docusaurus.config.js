@@ -15,7 +15,6 @@ const config = {
   favicon: "img/favicon.ico",
 
   // GitHub pages deployment config.
-  githubHost: 'soapbox',
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "soapbox-rhizome", // Usually your GitHub org/user name.
   deploymentBranch: "gh-pages",
