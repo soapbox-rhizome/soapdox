@@ -9,7 +9,7 @@ const config = {
   title: "Soapdox",
   tagline: "Dinosaurs are cool",
   url: "https://soapbox-rhizome.github.io",
-  baseUrl: "/soapdox/",
+  baseUrl: "/soapdox",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
