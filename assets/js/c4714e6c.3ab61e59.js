@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksoapdox=self.webpackChunksoapdox||[]).push([[6692],{2986:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/soapdox/blog/tags/facebook","allTagsPath":"/soapdox/blog/tags","count":1}')}}]);

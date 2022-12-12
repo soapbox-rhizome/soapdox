@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksoapdox=self.webpackChunksoapdox||[]).push([[1650],{1416:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/soapdox/blog/tags/hello","allTagsPath":"/soapdox/blog/tags","count":2}')}}]);

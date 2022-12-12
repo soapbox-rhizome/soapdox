@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksoapdox=self.webpackChunksoapdox||[]).push([[1362],{2426:o=>{o.exports=JSON.parse('{"permalink":"/soapdox/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
